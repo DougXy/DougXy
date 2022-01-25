@@ -1,6 +1,6 @@
 ### Olá! eu sou o Douglas Cordeiro
 
- ❌ Desenvolvedor Full Stack
+ ❌ Atualmente estudando Node.js
  
  <br>
 
